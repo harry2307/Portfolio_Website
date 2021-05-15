@@ -8,6 +8,13 @@
   scroll-behavior: smooth;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
     width: 10px;
