@@ -28,13 +28,13 @@ width: 50%;
   background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-  background: skyblue;
+  background: #87CEEB;
   border-radius: 12px;
   transition: all 0.3s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: skyblue;
+  background: #87CEEB;
 }
 /* navbar styling */
 nav{
@@ -46,7 +46,7 @@ transition: all 0.3s ease;
 font-family: 'Ubuntu', sans-serif;
 }
 nav.sticky{
-background: skyblue;  padding: 13px 0;
+background: #87CEEB;  padding: 13px 0;
 }
 nav .navbar{
 width: 90%;
@@ -58,7 +58,7 @@ margin: auto;
 nav .navbar .logo a{
 font-weight: 500;
 font-size: 35px;
-color: skyblue;}
+color: #87CEEB;}
 nav.sticky .navbar .logo a{
 color: #fff;
 }
@@ -78,7 +78,7 @@ padding: 6px 0;
 transition: all 0.4s ease;
 }
 .navbar .menu a:hover{
-color: skyblue;
+color: #87CEEB;
 }
 nav.sticky .menu a{
 color: #FFF;
@@ -87,7 +87,7 @@ nav.sticky .menu a:hover{
 color: #0E2431;
 }
 .navbar .media-icons a{
-color: skyblue;
+color: #87CEEB;
 font-size: 18px;
 margin: 0 6px;
 }
@@ -108,7 +108,7 @@ transition: all 0.3s ease;
 display: none;
 }
 nav .menu-btn{
-color: skyblue;
+color: #87CEEB;
 }
 nav.sticky .menu-btn{
 color: #FFF;
@@ -149,7 +149,7 @@ margin-left: -3px;
 .home .text-three{
 font-size: 40px;
 margin: 5px 0;
-color: skyblue;}
+color: #87CEEB;}
 .home .text-four{
 font-size: 23px;
 margin: 5px 0;
@@ -164,16 +164,16 @@ padding: 8px 16px;
 border-radius: 6px;
 font-size: 25px;
 font-weight: 400;
-background: skyblue;
+background: #87CEEB;
 color: #fff;
 cursor: pointer;
 border: 2px solid transparent;
 transition: all 0.4s ease;
 }
 .home .button button:hover{
-border-color: skyblue;
+border-color: #87CEEB;
 background-color: #fff;
-color: skyblue;
+color: #87CEEB;
 }
 
 /* About Section Styling */
@@ -210,7 +210,7 @@ content: '';
 position: absolute;
 height: 3px;
 width: 100%;
-background: skyblue;  left: 0;
+background: #87CEEB;  left: 0;
 bottom: 0;
 }
 section .title span::after{
@@ -250,14 +250,14 @@ padding: 8px 16px;
 border-radius: 4px;
 font-size: 25px;
 font-weight: 400;
-background: skyblue;  color: #fff;
+background: #87CEEB;  color: #fff;
 border: 2px solid transparent;
 cursor: pointer;
 transition: all 0.4s ease;
 }
 section .button button:hover{
-border-color: skyblue;  background-color: #fff;
-color: skyblue;}
+border-color: #87CEEB;  background-color: #fff;
+color: #87CEEB;}
 
 /* My Skills CSS */
 .skills{
@@ -306,10 +306,10 @@ margin: 20px 0;
 }
 .skills-details .boxes .topic{
 font-size: 20px;
-color: skyblue;}
+color: #87CEEB;}
 .skills-details .boxes .per{
 font-size: 60px;
-color: skyblue;}
+color: #87CEEB;}
 
 /* My projects CSS */
 .projects .boxes{
@@ -328,12 +328,12 @@ cursor: default;
 transition: all 0.4s ease;
 }
 .projects .boxes .box:hover{
-background: skyblue;  color: #fff;
+background: #87CEEB;  color: #fff;
 }
 .projects .boxes .box .icon{
 height: 50px;
 width: 50px;
-background: skyblue;  border-radius: 50%;
+background: #87CEEB;  border-radius: 50%;
 text-align: center;
 line-height: 50px;
 font-size: 18px;
@@ -343,7 +343,7 @@ transition: all 0.4s ease;
 }
 .boxes .box:hover .icon{
 background-color: #fff;
-color: skyblue;}
+color: #87CEEB;}
 .projects .boxes .box:hover .topic,
 .projects .boxes .box:hover p{
 color: #0E2431;
@@ -369,7 +369,7 @@ margin: auto;
 
 /* Footer CSS */
 footer{
-background: skyblue;  padding: 15px 0;
+background: #87CEEB;  padding: 15px 0;
 text-align: center;
 font-family: 'Poppins', sans-serif;
 }
@@ -391,7 +391,7 @@ position: fixed;
 bottom: 20px;
 right: 20px;
 color: #fff;
-background: skyblue;  padding: 7px 12px;;
+background: #87CEEB;  padding: 7px 12px;;
 font-size: 18px;
 border-radius: 6px;
 box-shadow: rgba(0, 0, 0, 0.15);
@@ -457,7 +457,7 @@ nav .navbar .menu a{
   margin: 10px 0;
 }
 nav.sticky .menu a:hover{
-  color: skyblue;  }
+  color: #87CEEB;  }
 nav .navbar .media-icons{
   display: none;
 }
@@ -503,5 +503,5 @@ nav .menu-btn,
 }
 .skills-details .boxes .per{
   font-size: 50px;
-  color: skyblue;  }
+  color: #87CEEB;  }
 }
